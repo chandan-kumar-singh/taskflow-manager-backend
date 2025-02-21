@@ -28,7 +28,7 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
-		<start-class>com.taskflow.TaskflowManagerBackendApplication</start-class>
+		<start-class>com.taskflow.manager.TaskflowManagerBackendApplication</start-class>
 	</properties>
 	<dependencies>
 		<!-- <dependency>
